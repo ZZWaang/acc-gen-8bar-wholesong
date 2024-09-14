@@ -1,0 +1,246 @@
+{
+    "melody": [
+        {
+            "start": 12,
+            "pitch": 72,
+            "duration": 4
+        },
+        {
+            "start": 16,
+            "pitch": 69,
+            "duration": 8
+        },
+        {
+            "start": 26,
+            "pitch": 69,
+            "duration": 2
+        },
+        {
+            "start": 28,
+            "pitch": 72,
+            "duration": 2
+        },
+        {
+            "start": 30,
+            "pitch": 74,
+            "duration": 2
+        },
+        {
+            "start": 32,
+            "pitch": 67,
+            "duration": 8
+        },
+        {
+            "start": 44,
+            "pitch": 67,
+            "duration": 2
+        },
+        {
+            "start": 46,
+            "pitch": 69,
+            "duration": 2
+        },
+        {
+            "start": 48,
+            "pitch": 70,
+            "duration": 4
+        },
+        {
+            "start": 52,
+            "pitch": 77,
+            "duration": 6
+        },
+        {
+            "start": 58,
+            "pitch": 77,
+            "duration": 2
+        },
+        {
+            "start": 60,
+            "pitch": 76,
+            "duration": 2
+        },
+        {
+            "start": 62,
+            "pitch": 72,
+            "duration": 2
+        },
+        {
+            "start": 64,
+            "pitch": 74,
+            "duration": 2
+        },
+        {
+            "start": 66,
+            "pitch": 72,
+            "duration": 1
+        },
+        {
+            "start": 67,
+            "pitch": 70,
+            "duration": 1
+        },
+        {
+            "start": 68,
+            "pitch": 69,
+            "duration": 4
+        },
+        {
+            "start": 78,
+            "pitch": 72,
+            "duration": 2
+        },
+        {
+            "start": 80,
+            "pitch": 74,
+            "duration": 2
+        },
+        {
+            "start": 82,
+            "pitch": 74,
+            "duration": 2
+        },
+        {
+            "start": 86,
+            "pitch": 74,
+            "duration": 2
+        },
+        {
+            "start": 88,
+            "pitch": 79,
+            "duration": 1
+        },
+        {
+            "start": 89,
+            "pitch": 77,
+            "duration": 2
+        },
+        {
+            "start": 91,
+            "pitch": 76,
+            "duration": 2
+        },
+        {
+            "start": 93,
+            "pitch": 77,
+            "duration": 1
+        },
+        {
+            "start": 94,
+            "pitch": 74,
+            "duration": 2
+        },
+        {
+            "start": 96,
+            "pitch": 72,
+            "duration": 4
+        },
+        {
+            "start": 104,
+            "pitch": 65,
+            "duration": 2
+        },
+        {
+            "start": 106,
+            "pitch": 67,
+            "duration": 2
+        },
+        {
+            "start": 108,
+            "pitch": 69,
+            "duration": 2
+        },
+        {
+            "start": 110,
+            "pitch": 74,
+            "duration": 2
+        },
+        {
+            "start": 112,
+            "pitch": 72,
+            "duration": 4
+        },
+        {
+            "start": 118,
+            "pitch": 72,
+            "duration": 2
+        },
+        {
+            "start": 120,
+            "pitch": 70,
+            "duration": 2
+        },
+        {
+            "start": 122,
+            "pitch": 69,
+            "duration": 2
+        },
+        {
+            "start": 124,
+            "pitch": 64,
+            "duration": 2
+        },
+        {
+            "start": 126,
+            "pitch": 65,
+            "duration": 2
+        },
+        {
+            "start": 128,
+            "pitch": 65,
+            "duration": 8
+        }
+    ],
+    "chords": [
+        {
+            "start": 0,
+            "symbol": "N",
+            "duration": 16
+        },
+        {
+            "start": 16,
+            "symbol": "F",
+            "duration": 16
+        },
+        {
+            "start": 32,
+            "symbol": "C",
+            "duration": 16
+        },
+        {
+            "start": 48,
+            "symbol": "C:sus4(b7)",
+            "duration": 12
+        },
+        {
+            "start": 60,
+            "symbol": "C:(b7)",
+            "duration": 4
+        },
+        {
+            "start": 64,
+            "symbol": "F",
+            "duration": 16
+        },
+        {
+            "start": 80,
+            "symbol": "Bb",
+            "duration": 16
+        },
+        {
+            "start": 96,
+            "symbol": "F",
+            "duration": 16
+        },
+        {
+            "start": 112,
+            "symbol": "C:7",
+            "duration": 16
+        },
+        {
+            "start": 128,
+            "symbol": "F",
+            "duration": 16
+        }
+    ]
+}
